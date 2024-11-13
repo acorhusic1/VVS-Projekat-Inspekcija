@@ -1,0 +1,107 @@
+[
+  {
+    "korisnickoIme": "ajska",
+    "email": "kaoskoa@gmail.com",
+    "lozinka": "u5WNdq/uQytea7+dr0oATZh7Nwtt4PdEeD+VEJmRCKA=",
+    "toDoLista": [],
+    "listaPodsjetnika": []
+  },
+  {
+    "korisnickoIme": "kazaz47",
+    "email": "kazaz56@hotmail.com",
+    "lozinka": "6jNkUfyIdprGUu6SKZ/HoBLHCbdzc07CVMvX33w92ts=",
+    "toDoLista": [
+      {
+        "opis": "Zavrsiti VVS projekat do 12:00 ",
+        "kategorija": 2,
+        "status": 3,
+        "prioritet": 2,
+        "vrijemePocetka": null,
+        "rokZavrsetka": "2024-11-20T10:00:00",
+        "vrijemeZavrsetka": null
+      },
+      {
+        "opis": "Zavrsiti spiralu iz WT do petka",
+        "kategorija": 2,
+        "status": 0,
+        "prioritet": 2,
+        "vrijemePocetka": "2024-11-12T20:39:51.5831501+01:00",
+        "rokZavrsetka": "2024-11-16T23:00:00",
+        "vrijemeZavrsetka": "2024-11-12T20:41:53.0249602+01:00"
+      }
+    ],
+    "listaPodsjetnika": [
+      {
+        "vrijemeSlanja": "2024-11-12T20:38:00",
+        "zadatak": {
+          "opis": "Zavrsiti VVS projekat do 12:00 ",
+          "kategorija": 2,
+          "status": 3,
+          "prioritet": 2,
+          "vrijemePocetka": null,
+          "rokZavrsetka": "2024-11-20T10:00:00",
+          "vrijemeZavrsetka": null
+        },
+        "izvrsen": true
+      }
+    ]
+  },
+  {
+    "korisnickoIme": "MujkaTriceps",
+    "email": "themujka@gmail.com",
+    "lozinka": "ED/mHlHpzLyzFDYo+C1bBeVS37MLv3IqcZkgss3UvQw=",
+    "toDoLista": [
+      {
+        "opis": "Zavrsiti Spiralu prije petka!",
+        "kategorija": 2,
+        "status": 0,
+        "prioritet": 2,
+        "vrijemePocetka": "2024-11-13T02:14:17.9962116+01:00",
+        "rokZavrsetka": "2024-11-15T23:59:00",
+        "vrijemeZavrsetka": "2024-11-13T02:29:02.3335024+01:00"
+      },
+      {
+        "opis": "Nekim magicnim cudom zavrsiti RG modeliranje!",
+        "kategorija": 2,
+        "status": 1,
+        "prioritet": 1,
+        "vrijemePocetka": "2024-11-13T02:14:37.9121715+01:00",
+        "rokZavrsetka": "2024-11-17T23:59:00",
+        "vrijemeZavrsetka": null
+      },
+      {
+        "opis": "Otkucati 100KM uplatu na kasi u teretani u suboru!",
+        "kategorija": 1,
+        "status": 1,
+        "prioritet": 2,
+        "vrijemePocetka": "2024-11-13T02:14:44.7098859+01:00",
+        "rokZavrsetka": "2024-11-16T10:15:00",
+        "vrijemeZavrsetka": null
+      },
+      {
+        "opis": "Istrenirati malo full body da osjete misici neku vrstu napora",
+        "kategorija": 0,
+        "status": 0,
+        "prioritet": 0,
+        "vrijemePocetka": "2024-11-13T02:14:47.5036675+01:00",
+        "rokZavrsetka": "2024-11-17T12:00:00",
+        "vrijemeZavrsetka": "2024-11-13T02:28:20.2713312+01:00"
+      }
+    ],
+    "listaPodsjetnika": [
+      {
+        "vrijemeSlanja": "2024-11-13T02:13:00",
+        "zadatak": {
+          "opis": "Zavrsiti Spiralu prije petka!",
+          "kategorija": 2,
+          "status": 1,
+          "prioritet": 2,
+          "vrijemePocetka": "2024-11-13T02:14:17.9962116+01:00",
+          "rokZavrsetka": "2024-11-15T23:59:00",
+          "vrijemeZavrsetka": null
+        },
+        "izvrsen": true
+      }
+    ]
+  }
+]

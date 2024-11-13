@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\korisnik\\source\\repos\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\korisnik\\source\\repos\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\servisi\\zadatakservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:servisi\\zadatakservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\korisnik\\source\\repos\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\servisi\\korisnikservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:servisi\\korisnikservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\korisnik\\source\\repos\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\servisi\\izadatakservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:servisi\\izadatakservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\korisnik\\source\\repos\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\servisi\\ikorisnikservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:servisi\\ikorisnikservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\korisnik\\source\\repos\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\klase\\zadatak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:klase\\zadatak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\korisnik\\source\\repos\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\klase\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:klase\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\korisnik\\source\\repos\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\klase\\prioritet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:klase\\prioritet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\korisnik\\source\\repos\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\klase\\podsjetnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:klase\\podsjetnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\korisnik\\source\\repos\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\klase\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:klase\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\korisnik\\source\\repos\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\klase\\kategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:klase\\kategorija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAjwNYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:54:51.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZadatakServis.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\ZadatakServis.cs",
+              "RelativeDocumentMoniker": "Servisi\\ZadatakServis.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\ZadatakServis.cs",
+              "RelativeToolTip": "Servisi\\ZadatakServis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:54:48.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KorisnikServis.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\KorisnikServis.cs",
+              "RelativeDocumentMoniker": "Servisi\\KorisnikServis.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\KorisnikServis.cs",
+              "RelativeToolTip": "Servisi\\KorisnikServis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:54:47.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IZadatakServis.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\IZadatakServis.cs",
+              "RelativeDocumentMoniker": "Servisi\\IZadatakServis.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\IZadatakServis.cs",
+              "RelativeToolTip": "Servisi\\IZadatakServis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:54:45.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IKorisnikServis.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\IKorisnikServis.cs",
+              "RelativeDocumentMoniker": "Servisi\\IKorisnikServis.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\IKorisnikServis.cs",
+              "RelativeToolTip": "Servisi\\IKorisnikServis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:54:44.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Zadatak.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Klase\\Zadatak.cs",
+              "RelativeDocumentMoniker": "Klase\\Zadatak.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Klase\\Zadatak.cs",
+              "RelativeToolTip": "Klase\\Zadatak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:54:30.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Klase\\Status.cs",
+              "RelativeDocumentMoniker": "Klase\\Status.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Klase\\Status.cs",
+              "RelativeToolTip": "Klase\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:54:29.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prioritet.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Klase\\Prioritet.cs",
+              "RelativeDocumentMoniker": "Klase\\Prioritet.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Klase\\Prioritet.cs",
+              "RelativeToolTip": "Klase\\Prioritet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:54:28.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Podsjetnik.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Klase\\Podsjetnik.cs",
+              "RelativeDocumentMoniker": "Klase\\Podsjetnik.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Klase\\Podsjetnik.cs",
+              "RelativeToolTip": "Klase\\Podsjetnik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:54:26.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Korisnik.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Klase\\Korisnik.cs",
+              "RelativeDocumentMoniker": "Klase\\Korisnik.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Klase\\Korisnik.cs",
+              "RelativeToolTip": "Klase\\Korisnik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:54:24.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Kategorija.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Klase\\Kategorija.cs",
+              "RelativeDocumentMoniker": "Klase\\Kategorija.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\source\\repos\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Klase\\Kategorija.cs",
+              "RelativeToolTip": "Klase\\Kategorija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:54:05.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
